@@ -60,4 +60,4 @@ cd Blog
 pip install -r requirements.txt
 
 # Start the development server
-uvicorn blog.main:app --reload
+uvicorn main:app --reload
